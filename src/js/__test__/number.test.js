@@ -1,4 +1,4 @@
-import switchPhoneNumber from '../nomber';
+import switchPhoneNumber from '../number';
 
 test.each([
   ['8 (927) 000-08-00', '+79270000800'],
