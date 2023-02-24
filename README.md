@@ -1,4 +1,7 @@
 ## **Телефоны** (задача со звёздочкой)
+[![Build status](https://ci.appveyor.com/api/projects/status/9316nlr9gwxpy4h6?svg=true)](https://ci.appveyor.com/project/Pavka16/phones)
+
+---
 **Важно**: данная задача не является обязательной
 
 ### **Легенда**
